@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shoosh</string>
+    <string name="FCM_server_key">AAAAKpuV9tg:APA91bGM_Ch73XLDZUA-zX0l_MFMYY-zF1clBM_qtQCM6aDu2KxZahMIL_hy7lZ4gPZwd7mbmLZdQsJ32y_3KJMAy3ALvp2QCYSBtgxGAtiLV-qEr8hW8G-Kka3mMEWOVcsf6lx8tmdm</string>
+    <string name="FCM_sender_id">182998922968</string>
+    <string name="Onesignal_App_ID">20263ac9-0798-417a-8c2a-4f1943608aed</string>
+    <string name="Rest_API_KEY">NmMzNzg1OWEtMjYzMy00MGNjLWFiMDYtZjE3YmZiNmEyNTk0</string>
+    <string name="reg_tile_number">ENTER NUMBER</string>
+    <string name="reg_tile_username">CREATE USERNAME</string>
+    <string name="reg_tile_code">ENTER CODE</string>
+    <string name="reg_terms_string"><u>By proceeding you understand the terms and conditions</u></string>
+    <string name="reg_code_again_string"><u>I did not receive the code, send again.</u></string>
+    <string name="reg_protect_string"><u>Protect your privacy, do not use your real name.</u></string>
+    <string name="home_enter_str"><b>Enter</b> a number\nto begin a search</string>
+    <string name="home_add_str"><b>Add</b> a number\nfrom your contacts</string>
+    <string name="about_hint_text">This space is reserved for the \"About Us\" test.</string>
+    <string name="report_confirm_str">You may confirm what you have written by pressing Confirm.\nIf you wish to delete your comment, press delete. If you do not do anything within 48 hours, we will delete the reported comment on your behalf. </string>
+</resources>

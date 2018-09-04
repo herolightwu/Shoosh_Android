@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" android:padding="0dp">
+    <!-- you can use any color you want I used here gray color-->
+    <gradient
+        android:angle="225"
+        android:startColor="#FFe20203"
+        android:centerColor="#FFa60304"
+        android:endColor="#FF980808"
+        android:type="linear" />
+    <corners android:topRightRadius="25dp"
+        android:topLeftRadius="25dp"/>
+    <stroke android:width="1dip" android:color="@color/colorPrimary" />
+</shape>
