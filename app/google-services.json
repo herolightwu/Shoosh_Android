@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "182998922968",
+    "firebase_url": "https://shoosh-ccdc6.firebaseio.com",
+    "project_id": "shoosh-ccdc6",
+    "storage_bucket": "shoosh-ccdc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182998922968:android:216a4272d91babe1",
+        "android_client_info": {
+          "package_name": "cz.org.shoosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182998922968-itc8okops2spqcjrm4ee2f14p39s1d0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.org.shoosh",
+            "certificate_hash": "9388cfe993ae4384250015c0135211be286b59bb"
+          }
+        },
+        {
+          "client_id": "182998922968-7khc4tdgovsk14snqkljm0fb042tub1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOys7itWoBUWWN2LBf0PAQ2Ve5vts2Kqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182998922968-7khc4tdgovsk14snqkljm0fb042tub1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182998922968-l3pcd5940d5v6ej5fg3fv69c2o9ndrch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dafchuit.shoosh"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
